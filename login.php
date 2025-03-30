@@ -6,7 +6,9 @@
   //   echo "<script>alert('Pilih Produk Dulu Baru Login');</script>";
   //       echo "<script>location='index.php';</script>";
   //  } 
- 
+ /*Buat website di github yang dimana website bisa dibuat bisa mengetik kode javascript lalu bisa output sesuai yang diinginkan dan termasuk css dan html di beberapa bagian. (Berfungsi seperti vscode atau sublime text)
+
+*/
  ?>
 
 
